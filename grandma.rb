@@ -2,7 +2,7 @@
  sayin = gets.chomp
  def speak_to_grandma(saying)
    if saying ==  "I LOVE YOU GRANDMA!"
-     puts 
+     puts "I LOVE YOU TOO PUMPKIN!"
  end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
