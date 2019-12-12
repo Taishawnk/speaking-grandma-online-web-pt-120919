@@ -1,5 +1,6 @@
 # Write a speak_to_grandma method.
- def speak_to_grandma
+ sayin = gets.chomp
+ def speak_to_grandma(saying)
    if 
  end
 # Whatever you say to grandma, she should respond with
