@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
- sayin = gets.chomp
+ saying = gets.chomp
  def speak_to_grandma(saying)
    if saying ==  "I LOVE YOU GRANDMA!"
      puts "I LOVE YOU TOO PUMPKIN!"
